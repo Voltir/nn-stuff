@@ -1,0 +1,4 @@
+package nn
+
+object Blah {
+}
